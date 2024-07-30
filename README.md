@@ -1,16 +1,13 @@
-## Hi there 👋
+### Graça e paz, sejam Bem-vindos 🙌
 
-<!--
-**Arthur07122008/Arthur07122008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Arthur Colares Cardoso
+sou estudante do Ensino Médio da Escola Estadual Antônio Florentino
+me cadastrei nessa plataforma para fins pedagógicos da matéria de Tecnologia
 
-Here are some ideas to get you started:
+### Entre em contato comigo 📧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+00001127266147sp@al.educacao.sp.gov.br
+
+@_ac4rdosoo0708
+
+![](https://media1.tenor.com/m/D6P7ayaAqY0AAAAd/the-chosen-os-escolhidos.gif)
